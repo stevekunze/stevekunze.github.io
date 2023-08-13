@@ -53,7 +53,7 @@ atom_feed:
 author:
   name             : "Steve Kunze"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : 
   location         : "Strausberg, Germany"
   employer         : "Gemeinde Fredersdorf-Vogelsdorf"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
