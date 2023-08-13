@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Steve Kunze / Sys Admin"
+title                    : "Steve Kunze / System-Administrator"
 title_separator          : "-"
 name                     : &name "Steve Kunze"
 description              : &description "Personal Blog and CV Page"
@@ -55,9 +55,9 @@ author:
   avatar           : "profile.png"
   bio              : 
   location         : "Strausberg, Germany"
-  employer         : "Gemeinde Fredersdorf-Vogelsdorf"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Arbeitgeber Gemeinde Fredersdorf-Vogelsdorf"
+  pubmed           : 
+  googlescholar    : 
   email            : "steve@kunzesrb.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
