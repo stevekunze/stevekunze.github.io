@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-#BERUFSERFAHRUNG
 ## FACHINFORMATIKER SYSTEMINTEGRATION
 ### Gemeinde Fredersdorf-Vogelsdorf
 - 03/2019 - heute
@@ -21,7 +20,7 @@ Feuerwehren, Bibliothek und Jugendklub
 ## Sitel GmbH
 - 03/2015 - 07/2015
 - FIRST LEVEL SUPPORT KUNDENDIENSTMITARBEITER für HP Deutschland
-# BILDUNGSWEG
+## BILDUNGSWEG
 ## Ausblidung Fachinformatiker Systemintegration
 - 2015 - 2018
 - AEM Dessau GmbH
